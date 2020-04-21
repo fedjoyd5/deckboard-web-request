@@ -5,13 +5,13 @@ const https = require('https');
 class WebRequestExtension extends Extension {
 	constructor() {
 		super();
-		this.name = 'API Web Request';
+		this.name = 'Web Request';
 		this.platforms = [PLATFORMS.WINDOWS, PLATFORMS.MAC];
 		this.inputs = [
 			{
 				label: 'GET WebRequest',
 				value: 'GET-WebRequest',
-				icon: 'keyboard',
+				icon: 'power-off',
 				color: '#34495e',
 				input: [
 					{
