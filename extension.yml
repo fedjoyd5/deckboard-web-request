@@ -4,4 +4,4 @@ version: 1.0.0
 description: execute webrequest for online http service API
 author: fedjoyd5
 license: MIT
-repository: 'https://github.com/fedjoyd5/deckboard-webrequest'
+repository: 'https://github.com/fedjoyd5/deckboard-web-request'
